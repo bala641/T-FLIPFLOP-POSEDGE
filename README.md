@@ -43,7 +43,7 @@ From the above characteristic table, we can directly write the next state equati
 7.Check for Race Conditions: Ensure that there are no race conditions or undefined states in the design by analyzing the timing and sequence of input changes.
 
 **PROGRAM**
-Developed by:THIRUKUMARAN G RegisterNumber:212223050056
+Developed by:BALA B Ref num: 249002438
 ```
 module tflipflop( input clk, rst_n, input t,
 output reg q,
